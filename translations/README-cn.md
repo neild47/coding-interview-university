@@ -127,7 +127,7 @@
 
 在学习过程中，我是使用 GitHub 特殊的语法特性 markdown flavor 去检查计划的进展，包括使用任务列表。
 
-- [] 创建一个新的分支，以使得你可以像这样去检查计划的进展。直接往方括号中填写一个字符 x 即可：[x]
+- [x] 创建一个新的分支，以使得你可以像这样去检查计划的进展。直接往方括号中填写一个字符 x 即可：[x]
 
 [更多关于 Github-flavored markdown 的详情](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
